@@ -1,0 +1,9 @@
+Output
+Intermediate
+.vs
+*.sdf
+*.db
+*.opensdf
+*.opendb
+**/*.aps
+**/*.user
